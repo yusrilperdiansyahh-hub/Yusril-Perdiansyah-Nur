@@ -1,0 +1,6 @@
+{
+  "name": "Sensus Desa Cibiru Wetan 2026",
+  "description": "Aplikasi pendataan lapangan sensus rumah tangga Desa Cibiru Wetan, Kecamatan Cileunyi, Kabupaten Bandung tahun 2026 oleh I'ComDev Institute.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": []
+}
